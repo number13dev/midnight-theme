@@ -1,0 +1,18 @@
+  {
+    "identifier": "io.github.number13dev.midnight-theme",
+    "name": "midnight-theme",
+    "content_type": "SN|Theme",
+    "area": "themes",
+    "description": "Evernote inspired dark theme for Standard Notes",
+    "version": "v1.2",
+    "url": "https://raw.githubusercontent.com/number13dev/midnight-theme/master/dist/dist.css",
+    "download_url": "https://github.com/number13dev/midnight-theme/archive/master.zip",
+    "marketing_url": "https://github.com/number13dev/midnight-theme",
+    "dock_icon": {
+      "type": "circle",
+      "background_color": "#00a82e",
+      "foreground_color": "#0081c2",
+      "border_color": "#00a82e"
+    },
+    "statusBar": "dark-content"
+  }
